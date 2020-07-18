@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>UTS Lusian Andrianto 2016142055</title>
+	<title>UTS Winarto taufik 2016140476</title>
 	
 </head>
 <?php
@@ -10,7 +10,7 @@ echo "Data Pemantauan Covid19 Wilayah Banten";
 echo "<br>";
 echo "Per " . date('l,d-m-Y H:i:s a') . "";
 echo "<br>";
-echo "<br>Lusian Andrianto / 2016142055";
+echo "<br>Winarto tauffik / 2016140476";
 echo "<br>";
 echo "<br>";
 echo "<br>";
